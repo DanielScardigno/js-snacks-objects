@@ -1,7 +1,7 @@
 const animali = [
-    {nome: "Lupo", famiglia: "Canidi", classe: "Mammiferi"},
-    {nome: "Volpe", famiglia: "Canidi", classe: "Mammiferi"},
-    {nome: "Blue-jay", famiglia: "Corvidi", classe: "Uccelli"}
+    { nome: "Lupo", famiglia: "Canidi", classe: "Mammiferi" },
+    { nome: "Volpe", famiglia: "Canidi", classe: "Mammiferi" },
+    { nome: "Blue-jay", famiglia: "Corvidi", classe: "Uccelli" }
 ]
 
 const mammiferi = []
